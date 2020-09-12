@@ -1,9 +1,6 @@
-# Reference to Related Issue
+# A node project
 
-# Description of PR
+Initialized the project to become a node project
 
-# Changes made
 
-# Issues fixed
-
-# Viewer
+AbdulFatai Aka
