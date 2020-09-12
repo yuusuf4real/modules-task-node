@@ -1,0 +1,11 @@
+{
+  "name": "MTN",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yuusuf4real/modules-task-node.git",
+  "author": "yusuf <yuusuf4real@yahoo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "parse-json": "^5.1.0"
+  }
+}
